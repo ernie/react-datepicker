@@ -51,7 +51,7 @@
     "webpack-dev-server": "^1.7.0"
   },
   "peerDependencies": {
-    "react": ">=0.12 <0.14"
+    "react": ">=0.12 <0.15"
   },
   "dependencies": {
     "moment": "^2.10",
